@@ -1,2 +1,3 @@
-Este es el primer archivo de Git-Training
-Esta linea ha sido añadida en la rama.
+este es el primer archivo de Git-Training
+Esta segunda linea se ha modificado en la  rama 'primeraRama'
+
